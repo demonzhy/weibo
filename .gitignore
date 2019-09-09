@@ -1,0 +1,5 @@
+.idea
+*.pyc
+secret.py
+reset.py
+*.7z
